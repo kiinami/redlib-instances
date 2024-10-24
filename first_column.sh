@@ -9,7 +9,7 @@ fi
 input_file="$1"
 output_file="$2"
 
-# Extract the first column and write to the output file
-cut -d',' -f1 "$input_file" > "$output_file"
+# Extract the first column, process it, and write to the output file
+cut -d',' -f1 "$input_file" | sed 's|http://||g; s|https://||g; s|^|||; s|$|^|' > "$output_file"
 
-echo "First column extracted to $output_file"
+echo "First column extracted and processed to $output_file"
