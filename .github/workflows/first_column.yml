@@ -1,0 +1,27 @@
+name: Extract First Column
+
+on:
+  push:
+    branches:
+      - main  # Change this to the default branch of the upstream repository
+
+jobs:
+  extract_column:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run extract_first_column.sh
+        run: |
+          chmod +x ./first_column.sh
+          ./first_column.sh instances.txt output.txt
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output.txt
+          git commit -m "Update output.txt with the first column of instances.txt"
+          git push
