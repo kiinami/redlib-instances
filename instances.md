@@ -5,13 +5,15 @@
 |https://l.opnxng.com|WWW|v0.36.0|🇸🇬 SG|||
 |https://redlib.catsarch.com|WWW|v0.36.0|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.36.0|🇦🇺 AU|✅||
-|https://redlib.tux.pizza|WWW|v0.36.0|🇺🇸 US|||
 |https://libreddit.privacydev.net|WWW|v0.36.0|🇫🇷 FR|||
 |https://rl.bloat.cat|WWW|v0.36.0|🇷🇴 RO|||
 |https://redlib.r4fo.com|WWW|v0.36.0|🇩🇪 DE|✅||
 |https://r.darrennathanael.com|WWW|v0.36.0|🇮🇩 ID||contact noc at darrennathanael.com|
 |https://redlib.privacyredirect.com|WWW|v0.36.0|🇫🇮 FI|||
+|https://redlib.baczek.me|WWW|v0.36.0|🇵🇱 PL|||
+|https://redlib.4o1x5.dev|WWW|v0.35.1|🇭🇺 HU|||
 |https://redlib.frontendfriendly.xyz|WWW|v0.36.0|🇽🇽 XX|||
+|https://reddit.adminforge.de|WWW|v0.36.0|🇫🇦 false|||
 |https://rl.blitzw.in|WWW|v0.36.0|🇩🇪 DE||hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in|
 |https://lr.ptr.moe|WWW|v0.36.0|🇩🇪 DE|✅||
 |https://redlib.orangenet.cc|WWW|v0.36.0|🇸🇮 SI||orangelib|
