@@ -1,15 +1,9 @@
 {
-  "updated": "2025-08-23",
+  "updated": "2025-08-25",
   "instances": [
     {
       "url": "https://safereddit.com",
       "country": "US",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
-    {
-      "url": "https://eu.safereddit.com",
-      "country": "DE",
       "version": "v0.36.0",
       "description": "SFW only"
     },
@@ -46,20 +40,16 @@
       "cloudflare": true
     },
     {
+      "url": "https://red.artemislena.eu",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "Be crime do gay"
+    },
+    {
       "url": "https://r.darrennathanael.com",
       "country": "ID",
       "version": "v0.36.0",
       "description": "contact noc at darrennathanael.com"
-    },
-    {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
-      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.4o1x5.dev",
@@ -77,10 +67,22 @@
       "version": "v0.36.0"
     },
     {
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "🩷"
+    },
+    {
       "url": "https://rl.blitzw.in",
       "country": "DE",
       "version": "v0.36.0",
       "description": "hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "AT",
+      "version": "v0.36.0",
+      "description": "Caution: +10% increased chance to contract Ligma"
     },
     {
       "url": "https://lr.ptr.moe",
@@ -98,13 +100,6 @@
       "url": "https://redlib.privadency.com",
       "country": "DE",
       "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.minihoot.site",
-      "country": "AU",
-      "version": "v0.36.0",
-      "cloudflare": true,
-      "description": "i love you (this instance is protected by anubis)"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
