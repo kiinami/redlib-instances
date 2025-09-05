@@ -1,9 +1,9 @@
 {
-  "updated": "2025-09-03",
+  "updated": "2025-09-05",
   "instances": [
     {
-      "url": "https://safereddit.com",
-      "country": "US",
+      "url": "https://eu.safereddit.com",
+      "country": "DE",
       "version": "v0.36.0",
       "description": "SFW only"
     },
@@ -34,14 +34,25 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://rl.bloat.cat",
-      "country": "RO",
-      "version": "v0.36.0"
+      "url": "https://red.artemislena.eu",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "Be crime do gay"
     },
     {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
       "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
+      "version": "v0.35.1"
     },
     {
       "url": "https://redlib.frontendfriendly.xyz",
@@ -60,10 +71,10 @@
       "description": "🩷"
     },
     {
-      "url": "https://lr.ptr.moe",
+      "url": "https://rl.blitzw.in",
       "country": "DE",
       "version": "v0.36.0",
-      "cloudflare": true
+      "description": "hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in"
     },
     {
       "url": "https://redlib.orangenet.cc",
