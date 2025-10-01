@@ -6,7 +6,6 @@
 |https://redlib.4o1x5.dev|WWW|v0.35.1|🇭🇺 HU|||
 |https://redlib.frontendfriendly.xyz|WWW|v0.36.0|🇽🇽 XX|||
 |https://reddit.adminforge.de|WWW|v0.36.0|🇫🇦 false|||
-|https://redlib.thebunny.zone|WWW|v0.36.0|🇭🇷 HR||🩷|
 |https://rl.blitzw.in|WWW|v0.36.0|🇩🇪 DE||hosted by a Neurospicy-flavored TFA Blitzwing fanatic at blitzw.in|
 |https://lr.ptr.moe|WWW|v0.36.0|🇩🇪 DE|✅||
 |https://redlib.orangenet.cc|WWW|v0.36.0|🇸🇮 SI||orangelib|
