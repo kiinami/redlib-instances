@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-05",
+  "updated": "2025-10-07",
   "instances": [
     {
       "url": "https://redlib.perennialte.ch",
@@ -8,13 +8,13 @@
       "cloudflare": true
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
+      "url": "https://redlib.nohost.network",
+      "country": "MX",
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.nohost.network",
-      "country": "MX",
+      "url": "https://reddit.owo.si",
+      "country": "DE",
       "version": "v0.36.0"
     },
     {
@@ -29,20 +29,9 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
+      "url": "https://redlib.frontendfriendly.xyz",
+      "country": "XX",
       "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.thebunny.zone",
-      "country": "HR",
-      "version": "v0.36.0",
-      "description": "🩷"
     },
     {
       "url": "https://reddit.rtrace.io",
@@ -55,12 +44,6 @@
       "country": "DE",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.orangenet.cc",
-      "country": "SI",
-      "version": "v0.36.0",
-      "description": "orangelib"
     },
     {
       "url": "https://redlib.privadency.com",
