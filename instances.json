@@ -1,9 +1,9 @@
 {
-  "updated": "2025-10-19",
+  "updated": "2025-10-21",
   "instances": [
     {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
+      "url": "https://redlib.catsarch.com",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
@@ -13,19 +13,14 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.nohost.network",
-      "country": "MX",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://red.artemislena.eu",
       "country": "DE",
       "version": "v0.36.0",
       "description": "Be crime do gay"
     },
     {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
       "version": "v0.36.0"
     },
     {
@@ -43,6 +38,12 @@
       "url": "https://reddit.adminforge.de",
       "country": "false",
       "version": "v0.36.0"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "AT",
+      "version": "v0.36.0",
+      "description": "Caution: +10% increased chance to contract Ligma"
     },
     {
       "url": "https://lr.ptr.moe",
