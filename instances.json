@@ -1,21 +1,20 @@
 {
-  "updated": "2025-10-27",
+  "updated": "2025-10-29",
   "instances": [
-    {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
-      "version": "v0.36.0"
-    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.perennialte.ch",
-      "country": "AU",
-      "version": "v0.36.0",
-      "cloudflare": true
+      "url": "https://libreddit.privacydev.net",
+      "country": "FR",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.36.0"
     },
     {
       "url": "https://red.artemislena.eu",
@@ -26,11 +25,6 @@
     {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
       "version": "v0.36.0"
     },
     {
