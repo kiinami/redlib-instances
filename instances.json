@@ -1,6 +1,11 @@
 {
-  "updated": "2025-10-31",
+  "updated": "2025-11-01",
   "instances": [
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.36.0"
+    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -25,21 +30,32 @@
       "description": "SFW only"
     },
     {
-      "url": "https://reddit.adminforge.de",
-      "country": "false",
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
       "version": "v0.36.0"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "AT",
+      "url": "https://redlib.frontendfriendly.xyz",
+      "country": "XX",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.reallyaweso.me",
+      "country": "DE",
       "version": "v0.36.0",
-      "description": "Caution: +10% increased chance to contract Ligma"
+      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "url": "https://lr.ptr.moe",
       "country": "DE",
       "version": "v0.36.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://redlib.orangenet.cc",
+      "country": "SI",
+      "version": "v0.36.0",
+      "description": "orangelib"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
