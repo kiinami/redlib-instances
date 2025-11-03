@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-01",
+  "updated": "2025-11-03",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -22,12 +22,6 @@
       "country": "DE",
       "version": "v0.36.0",
       "description": "Be crime do gay"
-    },
-    {
-      "url": "https://reddit.nerdvpn.de",
-      "country": "UA",
-      "version": "v0.36.0",
-      "description": "SFW only"
     },
     {
       "url": "https://redlib.4o1x5.dev",
