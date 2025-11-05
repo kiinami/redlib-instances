@@ -1,11 +1,6 @@
 {
-  "updated": "2025-11-03",
+  "updated": "2025-11-05",
   "instances": [
-    {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
-      "version": "v0.36.0"
-    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -16,6 +11,11 @@
       "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "FR",
+      "version": "v0.36.0"
     },
     {
       "url": "https://red.artemislena.eu",
@@ -38,6 +38,11 @@
       "country": "DE",
       "version": "v0.36.0",
       "description": "A reallyaweso.me redlib instance!"
+    },
+    {
+      "url": "https://reddit.adminforge.de",
+      "country": "false",
+      "version": "v0.36.0"
     },
     {
       "url": "https://lr.ptr.moe",
