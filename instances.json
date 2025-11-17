@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-15",
+  "updated": "2025-11-17",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -13,8 +13,8 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
       "version": "v0.36.0"
     },
     {
@@ -34,15 +34,10 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.reallyaweso.me",
-      "country": "DE",
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
       "version": "v0.36.0",
-      "description": "A reallyaweso.me redlib instance!"
-    },
-    {
-      "url": "https://reddit.adminforge.de",
-      "country": "false",
-      "version": "v0.36.0"
+      "description": "🩷"
     },
     {
       "url": "https://reddit.rtrace.io",
