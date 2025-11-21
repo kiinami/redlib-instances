@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-19",
+  "updated": "2025-11-21",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -11,6 +11,11 @@
       "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "FR",
+      "version": "v0.36.0"
     },
     {
       "url": "https://red.artemislena.eu",
@@ -44,12 +49,6 @@
       "country": "DE",
       "version": "v0.36.0",
       "description": "A reallyaweso.me redlib instance!"
-    },
-    {
-      "url": "https://redlib.thebunny.zone",
-      "country": "HR",
-      "version": "v0.36.0",
-      "description": "🩷"
     },
     {
       "url": "https://lr.ptr.moe",
