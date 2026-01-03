@@ -1,6 +1,11 @@
 {
-  "updated": "2026-01-01",
+  "updated": "2026-01-03",
   "instances": [
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.36.0"
+    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -19,9 +24,10 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.36.0"
+      "url": "https://red.artemislena.eu",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "Be crime do gay"
     },
     {
       "url": "https://redlib.4o1x5.dev",
@@ -29,9 +35,16 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.privadency.com",
-      "country": "DE",
-      "version": "v0.36.0"
+      "url": "https://redlib.thebunny.zone",
+      "country": "HR",
+      "version": "v0.36.0",
+      "description": "🩷"
+    },
+    {
+      "url": "https://redlib.orangenet.cc",
+      "country": "SI",
+      "version": "v0.36.0",
+      "description": "orangelib"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
