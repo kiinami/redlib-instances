@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27",
+  "updated": "2026-01-29",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -18,10 +18,15 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.r4fo.com",
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://red.artemislena.eu",
       "country": "DE",
       "version": "v0.36.0",
-      "cloudflare": true
+      "description": "Be crime do gay"
     },
     {
       "url": "https://redlib.cow.rip",
@@ -30,10 +35,20 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.orangenet.cc",
-      "country": "SI",
+      "url": "https://redlib.nadeko.net",
+      "country": "CL",
       "version": "v0.36.0",
-      "description": "orangelib"
+      "description": "I don't like reddit."
+    },
+    {
+      "url": "https://redlib.4o1x5.dev",
+      "country": "HU",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.privadency.com",
+      "country": "DE",
+      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
