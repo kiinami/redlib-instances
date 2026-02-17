@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15",
+  "updated": "2026-02-17",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -7,19 +7,8 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.catsarch.com",
-      "country": "US",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://redlib.perennialte.ch",
       "country": "AU",
-      "version": "v0.36.0",
-      "cloudflare": true
-    },
-    {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
       "version": "v0.36.0",
       "cloudflare": true
     },
@@ -50,11 +39,6 @@
       "country": "SI",
       "version": "v0.36.0",
       "description": "orangelib"
-    },
-    {
-      "url": "https://redlib.privadency.com",
-      "country": "DE",
-      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
