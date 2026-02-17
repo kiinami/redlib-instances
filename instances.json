@@ -1,16 +1,6 @@
 {
-  "updated": "2026-02-15",
+  "updated": "2026-02-17",
   "instances": [
-    {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.catsarch.com",
-      "country": "US",
-      "version": "v0.36.0"
-    },
     {
       "url": "https://redlib.perennialte.ch",
       "country": "AU",

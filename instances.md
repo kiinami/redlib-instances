@@ -1,7 +1,5 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://l.opnxng.com|WWW|v0.36.0|🇸🇬 SG|||
-|https://redlib.catsarch.com|WWW|v0.36.0|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.36.0|🇦🇺 AU|✅||
 |https://redlib.r4fo.com|WWW|v0.36.0|🇩🇪 DE|✅||
 |https://red.artemislena.eu|WWW|v0.36.0|🇩🇪 DE||Be crime do gay|
