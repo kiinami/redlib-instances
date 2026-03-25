@@ -1,6 +1,11 @@
 {
-  "updated": "2026-03-23",
+  "updated": "2026-03-25",
   "instances": [
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.36.0"
+    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -9,6 +14,12 @@
     {
       "url": "https://redlib.perennialte.ch",
       "country": "AU",
+      "version": "v0.36.0",
+      "cloudflare": true
+    },
+    {
+      "url": "https://redlib.r4fo.com",
+      "country": "DE",
       "version": "v0.36.0",
       "cloudflare": true
     },
@@ -30,8 +41,8 @@
       "description": "I don't like reddit."
     },
     {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
+      "url": "https://redlib.privadency.com",
+      "country": "DE",
       "version": "v0.36.0"
     },
     {
