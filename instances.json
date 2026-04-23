@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21",
+  "updated": "2026-04-23",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -13,10 +13,10 @@
       "cloudflare": true
     },
     {
-      "url": "https://red.artemislena.eu",
+      "url": "https://redlib.r4fo.com",
       "country": "DE",
       "version": "v0.36.0",
-      "description": "Be crime do gay"
+      "cloudflare": true
     },
     {
       "url": "https://redlib.cow.rip",
@@ -28,12 +28,6 @@
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
       "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.nadeko.net",
-      "country": "CL",
-      "version": "v0.36.0",
-      "description": "I don't like reddit."
     },
     {
       "url": "https://redlib.privadency.com",
