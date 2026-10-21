@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-21",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -15,6 +15,12 @@
     {
       "url": "https://redlib.r4fo.com",
       "country": "DE",
+      "version": "v0.36.0",
+      "cloudflare": true
+    },
+    {
+      "url": "https://redlib.cow.rip",
+      "country": "IN",
       "version": "v0.36.0",
       "cloudflare": true
     },

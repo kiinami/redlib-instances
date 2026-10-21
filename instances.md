@@ -3,6 +3,7 @@
 |https://safereddit.com|WWW|v0.36.0|🇺🇸 US||SFW only|
 |https://redlib.catsarch.com|WWW|v0.36.0|🇺🇸 US|||
 |https://redlib.r4fo.com|WWW|v0.36.0|🇩🇪 DE|✅||
+|https://redlib.cow.rip|WWW|v0.36.0|🇮🇳 IN|✅||
 |https://redlib.privacyredirect.com|WWW|v0.36.0|🇫🇮 FI|||
 |https://redlib.nadeko.net|WWW|v0.36.0|🇨🇱 CL||I don't like reddit.|
 |https://redlib.reallyaweso.me|WWW|v0.36.0|🇩🇪 DE||A reallyaweso.me redlib instance!|
